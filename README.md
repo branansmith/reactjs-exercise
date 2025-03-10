@@ -24,6 +24,14 @@ Once running, navigate to the react-app project folder, and run the application:
 cd react-app
 ```
 
+Install dependencies inside react application folder:
+
+```bash
+npm install
+```
+
+Run the program:
+
 ```bash
 npm run dev
 ```
