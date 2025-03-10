@@ -18,7 +18,7 @@ Once installed, run the json-server:
 npx json-server --watch ./example.json --port 3001 --routes routes.json
 ```
 
-Once running, navigate to the react-app project folder, and run the application:
+Once running, navigate to the react-app project folder:
 
 ```bash
 cd react-app
