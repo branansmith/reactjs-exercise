@@ -6,12 +6,6 @@ Make sure json-server is currently installed on your local machine:
 npm install json-server
 ```
 
-Type this command to install all other needed dependencies:
-
-```bash
-npm install
-```
-
 Once installed, run the json-server:
 
 ```bash
