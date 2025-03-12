@@ -1,3 +1,5 @@
+This is a react backend exercise that takes in sample json data from an api and gets specific user information such as their address, state, zip code, and email. This program lists all available users and all available data for each user. If any json field is blank, the data will not be displayed. 
+
 # Before running the program
 
 Make sure json-server is currently installed on your local machine:
